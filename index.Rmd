@@ -1,3 +1,27 @@
 ---
-site: blogdown:::blogdown_site
+#title: "Get active for a purpose!"
+image: "Logo_s4c.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 230
+links:
+#  - label: YouTube
+#    url: "https://youtube.com/"
+#  - label: Vimeo
+#    url: "https://vimeo.com/"
+#  - label: Twitter
+#    url: "https://twitter.com/"
+  - label: Email
+    url: "mailto:hello@sweat-for-a-cause.org"
+  - label: Instagram
+    url: "https://www.instagram.com/sweat_for_a_cause/"
+header-includes:
+   - \usepackage[default]{sourcesanspro}
+   - \usepackage[T1]{fontenc}
+mainfont: SourceSansPro
+output:
+  postcards::jolla
 ---
+ 
+
+
